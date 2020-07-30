@@ -34,7 +34,6 @@
 <br />
 
 ### Stats:
-<br /><br />
 <img align="left" alt="rex-mcall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rex-mcall&show_icons=true&hide_border=true" />
 
 [website]: https://rmca.company
