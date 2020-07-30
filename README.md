@@ -18,8 +18,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
-<img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />(https://www.microsoft.com/en-us/windows Windows Operating System)
+<img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />(https://code.visualstudio.com/ Visual Studio Code)
 <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="CPP" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -37,5 +37,5 @@
 ### Stats:
 <img align="left" alt="rex-mcall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rex-mcall&show_icons=true&hide_border=true" />
 
-[website]: https://rmca.company
+[website]: https://rmca.company My Website
 [lcthw]: https://learncodethehardway.org/c/
