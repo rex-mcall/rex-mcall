@@ -1,12 +1,12 @@
 ### Hi there, I'm Rex McAllister - aka [rex-mcall][website] 👋
 
-## I'm a highschool level amateur engineer with a passion for learning
+### I'm a highschool level amateur engineer with a passion for learning
 - I’m currently working on [learning C][lcthw]
 - 2020 Goals:
     - Contribute more to Open Source projects
     - Learn C and continue writing in Python and Java
 
-## I am a member of the FRC Team 1111 Programming and Electrical groups
+### I am a member of the FRC Team 1111 Programming and Electrical groups
 
 <img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/first-robotics-competition/first-robotics-competition.png" />
 <br />
