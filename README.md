@@ -1,4 +1,6 @@
-### Hi there, I'm Rex McAllister - aka [rex-mcall][website] 👋
+### Hi there, I'm Rex McAllister - aka [rex-mcall][gtrm] 👋
+
+---
 
 ### I'm a highschool level amateur engineer with a passion for learning
 - I’m currently working on [learning C][lcthw]
@@ -6,16 +8,22 @@
     - Contribute more to Open Source projects
     - Learn C and continue writing in Python and Java
 
+---
+
 ### I am a member of the FRC Team 1111 Programming and Electrical groups
 
 [<img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/first-robotics-competition/first-robotics-competition.png" />][frc]
-<br />
+<br><br>
+
+---
 
 ### My Website:
 
-[<img align="left" alt="https://rmca.company" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rmca company" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-<br>
+<br><br>
+
+---
 
 ### Languages and Tools:
 
@@ -39,13 +47,15 @@
 [<img align="left" alt="Arduino" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
 
 
-<br />
-<br />
+<br><br><br>
+
+---
 
 ### Stats:
+
 <img align="left" alt="rex-mcall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rex-mcall&show_icons=true&hide_border=true" />
 
-
+[gtrm]: https://github.com/rex-mcall "My Profile"
 [website]: https://rmca.company "My Website"
 [lcthw]: https://learncodethehardway.org/c/ "Learn C the Hard Way"
 [frc]: https://www.firstinspires.org/robotics/frc "First Robotics Competition"
