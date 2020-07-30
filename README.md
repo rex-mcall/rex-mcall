@@ -14,11 +14,12 @@
 ### My Website:
 
 [<img align="left" alt="https://rmca.company" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 <br>
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][https://www.microsoft.com/en-us/windows Windows Windows OS]
+[<img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][windows]
 [<img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/ Visual Studio Code)
 [<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]()
@@ -31,6 +32,7 @@
 [<img align="left" alt="OpenCV" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />]()
 [<img align="left" alt="Raspberry Pi" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />]()
 [<img align="left" alt="Arduino" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />]()
+
 <br />
 <br />
 
@@ -39,3 +41,5 @@
 
 [website]: https://rmca.company My Website
 [lcthw]: https://learncodethehardway.org/c/
+
+[windows]: https://www.microsoft.com/en-us/windows Windows OS
