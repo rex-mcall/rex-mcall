@@ -39,7 +39,7 @@
 ### Stats:
 <img align="left" alt="rex-mcall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rex-mcall&show_icons=true&hide_border=true" />
 
-[website]: https://rmca.company My Website
+[website]: https://rmca.company
 [lcthw]: https://learncodethehardway.org/c/
 
-[windows]: https://www.microsoft.com/en-us/windows Windows OS
+[windows]: https://www.microsoft.com/en-us/windows
