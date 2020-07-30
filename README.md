@@ -1,4 +1,4 @@
-### Hi there, I'm Rex - aka [rex-mcall][website] 👋
+### Hi there, I'm Rex McAllister - aka [rex-mcall][website] 👋
 
 ## I'm a highschool level amateur engineer with a passion for learning
 - I’m currently working on [learning C][lcthw]
@@ -9,8 +9,10 @@
 ## I am a member of the FRC Team 1111 Programming and Electrical groups
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/first-robotics-competition/first-robotics-competition.png" />
 
+<br />
+
 ### Connect with me:
-[<img align="left" alt="rmca.company" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://rmca.company" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -30,8 +32,8 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <br />
 <br />
----
-<img align="left" alt="rex-mcall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rex-mcall&show_icons=true&hide_border=true" />
+
+### <img align="left" alt="rex-mcall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rex-mcall&show_icons=true&hide_border=true" />
 
 [website]: https://rmca.company
 [lcthw]: https://learncodethehardway.org/c/
