@@ -66,7 +66,7 @@
 
 [gtrm]: https://github.com/rex-mcall "My Profile"
 [website]: https://rmca.company "My Website"
-[lcthw]: https://github.com/rex-mcall/Learn-C-Course "Learn C the Hard Way"
+[lcthw]: https://github.com/rex-mcall/Learn-C-Course "Learn C Course"
 [frc]: https://www.firstinspires.org/robotics/frc "First Robotics Competition"
 
 [windows]: https://www.microsoft.com/en-us/windows "Windows Operating System"
