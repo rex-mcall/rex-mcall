@@ -2,66 +2,67 @@
 
 ---
 
-### I'm a highschool level amateur engineer with a passion for learning
-- I’m currently working on [learning C][lcthw]
+### About Me
+- I'm a highschooler with a passion for learning
+- I love engineering, specifically in these branches:
+    - Computer/Electrical
+    - Aerospace
+    - Mechanical
+    - Biomedical
 - 2020 Goals:
     - Contribute more to Open Source projects
-    - Learn C and continue writing in Python and Java
+    - Learn C and continue writing programs using other languages
+- I’m currently working on [learning C][lcthw]
 
 ---
 
-### I am a member of the FRC Team 1111 Programming and Electrical groups
+### I am a member of the [FRC Team 1111](https://www.powerhawks.org/) Programming and Electrical groups
 
-[<img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/first-robotics-competition/first-robotics-competition.png" />][frc]
-<br><br>
+[<img alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/first-robotics-competition/first-robotics-competition.png" />][frc]
+
 
 ---
 
 ### My Website:
 
-[<img align="left" alt="rmca company" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img alt="rmca company" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-<br><br>
+
 
 ---
 
 ### Languages and Tools:
 
-- [<img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][windows]
-[<img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
+- [<img alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][windows]
+[<img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
+[<img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 
-<br><br>
+- [<img alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
+[<img alt="CPP" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
+[<img alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img alt="Java" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+[<img alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img alt="HTML" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img alt="CSS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 
-- [<img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
-[<img align="left" alt="CPP" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
-[<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+- [<img alt="CLI" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][cli]
+[<img alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-<br><br>
+- [<img alt="OpenCV" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />][opencv]
+[<img alt="OpenCV" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
 
-- [<img align="left" alt="CLI" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][cli]
-[<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+- [<img alt="Raspberry Pi" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][rasPi]
+[<img alt="Arduino" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
 
-<br><br>
-
-- [<img align="left" alt="OpenCV" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />][opencv]
-
-<br><br>
-
-- [<img align="left" alt="Raspberry Pi" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][rasPi]
-[<img align="left" alt="Arduino" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
-
-
-<br><br><br>
 
 ---
 
 ### Stats:
 
-<img align="left" alt="rex-mcall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rex-mcall&show_icons=true&hide_border=true" />
+<img alt="rex-mcall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rex-mcall&show_icons=true&hide_border=false&theme=algolia&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rex-mcall&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [gtrm]: https://github.com/rex-mcall "My Profile"
 [website]: https://rmca.company "My Website"
@@ -69,19 +70,23 @@
 [frc]: https://www.firstinspires.org/robotics/frc "First Robotics Competition"
 
 [windows]: https://www.microsoft.com/en-us/windows "Windows Operating System"
+[linux]: https://www.linux.org/ "Linux Operating System"
 [vsCode]: https://code.visualstudio.com/ "Visual Studio Code"
-[linux]: https://www.linux.org/ "Linux"
 
 [c]: https://www.cprogramming.com/books/ritchie.html "The C Programmig Language"
 [cpp]: https://www.cplusplus.com/ "C++"
 [python]: https://www.python.org/ "Python"
 [java]: https://www.java.com/en/ "Java"
 [js]: https://www.javascript.com/ "Javascript"
+[html]: https://en.wikipedia.org/wiki/HTML "HTML"
+[css]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets "CSS"
 
 [cli]: https://en.wikipedia.org/wiki/Command-line_interface "Command-Line Interface"
 [git]: https://git-scm.com/ "Git"
 [github]: https://github.com "Github"
+
 [opencv]: https://opencv.org/ "OpenCV"
+[flask]: https://flask.palletsprojects.com/ "Flask"
 
 [rasPi]: https://www.raspberrypi.org/ "Raspberry Pi"
 [arduino]: https://www.arduino.cc/ "Arduino"
