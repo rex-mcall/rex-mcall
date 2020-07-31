@@ -1,4 +1,4 @@
-### Hi there, I'm Rex McAllister - aka [rex-mcall][gtrm] 👋
+### Hi there, I'm Rex McAllister - aka [rex-mcall][gtrm].
 
 ---
 
