@@ -64,6 +64,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rex-mcall&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 [gtrm]: https://github.com/rex-mcall "My Profile"
 [website]: https://rmca.company "My Website"
 [lcthw]: https://github.com/rex-mcall/Learn-C-Course "Learn C Course"
