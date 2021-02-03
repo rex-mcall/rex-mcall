@@ -9,9 +9,9 @@
     - Aerospace
     - Mechanical
     - Biomedical
-- 2020 Goals:
+- 2021 Goals:
     - Contribute more to Open Source projects
-    - Learn C and continue writing programs using other languages
+    - Continue to become proficient in C and remain proficient in other languages
 - I’m currently working on [learning C][lcthw]
 
 ---
