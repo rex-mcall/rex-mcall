@@ -10,9 +10,9 @@
     - Mechanical
     - Biomedical
 - 2021 Goals:
-    - Contribute more to Open Source projects
-    - Continue to become proficient in C and remain proficient in other languages
-- I’m currently working on [learning C][lcthw]
+    - Complete my summer internship project
+    - Keep working on and refining my programming skills through personal projects
+- I’m currently working on [my summer internship with Emergent Space Technologies][esti]
 
 ---
 
@@ -59,7 +59,7 @@
 
 [gtrm]: https://github.com/rex-mcall "My Profile"
 [website]: https://rmca.company "My Website"
-[lcthw]: https://github.com/rex-mcall/Learn-C-Course "Learn C Course"
+[esti]: https://github.com/rex-mcall/EST_Internship_2021 "Summer Internship 2021"
 [frc]: https://www.firstinspires.org/robotics/frc "First Robotics Competition"
 
 [windows]: https://www.microsoft.com/en-us/windows "Windows Operating System"
