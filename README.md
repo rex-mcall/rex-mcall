@@ -9,14 +9,16 @@
     - Aerospace
     - Mechanical
     - Biomedical
-- 2021 Goals:
-    - Complete my summer internship project
+- 2022 Goals:
+    - Write competitive code for FRC
+    - Continue working on my senior capstone project: creating an autonomous, fixed-wing fire detection drone
     - Keep working on and refining my programming skills through personal projects
-- I’m currently working on [my summer internship with Emergent Space Technologies][esti]
+- My most recent project was [my summer internship with Emergent Space Technologies][esti]
+- This past fall I spent a lot of time writing [swerve drive code][swerve] for my robotics team
 
 ---
 
-### I am a member of the [FRC Team 1111](https://www.powerhawks.org/) Programming and Electrical groups
+### I am the Controls Deparment Lead for [FRC Team 1111](https://www.powerhawks.org/)
 
 [<img alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/first-robotics-competition/first-robotics-competition.png" />][frc]
 
@@ -59,6 +61,7 @@
 
 [gtrm]: https://github.com/rex-mcall "My Profile"
 [website]: https://rmca.company "My Website"
+[swerve]: https://bitbucket.org/frc1111/ "swerve drive code"
 [esti]: https://github.com/rex-mcall/EST_Internship_2021 "Summer Internship 2021"
 [frc]: https://www.firstinspires.org/robotics/frc "First Robotics Competition"
 
