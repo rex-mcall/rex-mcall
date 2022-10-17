@@ -3,22 +3,17 @@
 ---
 
 ### About Me
-- I'm a highschooler with a passion for learning
-- I love engineering, specifically in these branches:
-    - Computer/Electrical
-    - Aerospace
-    - Mechanical
-    - Biomedical
+- I'm a college freshman with a passion for learning
+- Majoring in Computer Engineering at West Virginia University
 - 2022 Goals:
-    - Write competitive code for FRC
-    - Continue working on my senior capstone project: creating an autonomous, fixed-wing fire detection drone
-    - Keep working on and refining my programming skills through personal projects
+    - Model rocketry thrust vector control development
+    - L1 high power rocketry certification with custom avionics onboard
 - My most recent project was [my summer internship with Emergent Space Technologies][esti]
-- This past fall I spent a lot of time writing [swerve drive code][swerve] for my robotics team
+- This past spring I helped my FRC robotics team make it to the world championship as the programming department captain
 
 ---
 
-### I am the Controls Deparment Lead for [FRC Team 1111](https://www.powerhawks.org/)
+### I was the Controls Deparment Lead for [FRC Team 1111](https://www.powerhawks.org/)
 
 [<img alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/first-robotics-competition/first-robotics-competition.png" />][frc]
 
