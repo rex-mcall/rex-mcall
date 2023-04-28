@@ -8,7 +8,7 @@
 - 2022 Goals:
     - Model rocketry thrust vector control development
     - L1 high power rocketry certification with custom avionics onboard
-- My most recent project was [my summer internship with Emergent Space Technologies][esti]
+- My favorite project was [my summer internship with Emergent Space Technologies][esti]
 - This past spring I helped my FRC robotics team make it to the world championship as the programming department captain
 
 ---
