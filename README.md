@@ -6,14 +6,14 @@
 - I'm a college freshman with a passion for learning
 - Majoring in Computer Engineering at West Virginia University
 - 2022 Goals:
-    - Model rocketry thrust vector control development
-    - L1 high power rocketry certification with custom avionics onboard
+    - Model rocketry thrust vector control development ✅
+    - L1 high power rocketry certification with custom avionics onboard ✅
 - My favorite project was [my summer internship with Emergent Space Technologies][esti]
 - This past spring I helped my FRC robotics team make it to the world championship as the programming department captain
 
 ---
 
-### I was the Controls Deparment Lead for [FRC Team 1111](https://www.powerhawks.org/)
+### I was the 2022 Controls Deparment Lead for [FRC Team 1111](https://www.powerhawks.org/)
 
 [<img alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/first-robotics-competition/first-robotics-competition.png" />][frc]
 
